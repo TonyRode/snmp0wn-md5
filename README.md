@@ -14,6 +14,10 @@ https://www.0x0ff.info/2013/snmpv3-authentification/
 
   * On Debian: `sudo apt-get install bc`
 
+* Install libcrypt-des-perl 
+
+  * On Debian: `sudo apt install libcrypt-des-perl `
+
 * Get a packet capture of snmpv3 traffic using Auth MD5
 
 * Reset the below variables to match your packet capture
